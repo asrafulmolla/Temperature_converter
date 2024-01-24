@@ -44,6 +44,8 @@ int main()
     cin>>k;
     cout<< (k-273.15) * 9/5 + 32<<" it is tempreature on the Farenheit scale."<<endl;
     break;
+    default:
+    cout << "Error: Invalid choice." << endl;
     }
 
 }
