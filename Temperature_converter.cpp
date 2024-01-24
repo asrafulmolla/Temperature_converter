@@ -33,6 +33,7 @@ int main()
     cout<<"\nEnter the tempreature on the Kelvin scale: ";
     cin>>k;
     cout<<k-273.15<<" it is tempreature on the Celcius scale."<<endl;
+    break;
     case 5:
     cout<<"\nEnter the tempreature on the Farenheit scale: ";
     cin>>f;
